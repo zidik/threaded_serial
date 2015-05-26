@@ -1,1 +1,2 @@
-__author__ = 'Mark'
+__author__ = 'Mark Laane'
+from .threaded_serial import ThreadedSerialManager
